@@ -14,7 +14,7 @@ import java.util.Map;
 
 public class ErlangDescriptor implements InterpreterDescriptor {
 
-	public static final String BASE_INSTALL_URL = "http://erlang.ernovation.com/files/";
+	public static final String BASE_INSTALL_URL = "http://erlang4android.googlecode.com/files/";
 	public static final String DALVIKVM = "/system/bin/dalvikvm";
 
 	@Override
@@ -28,15 +28,15 @@ public class ErlangDescriptor implements InterpreterDescriptor {
 	}
 
 	public String getInterpreterVersion() {
-		return "15b03";
+		return "15b03.1";
 	}
 
 	public String getExtrasVersion() {
-		return "15b03";
+		return "15b03.1";
 	}
 
 	public String getScriptsVersion() {
-		return "15b03";
+		return "15b03.1";
 	}
 
 	public String getBaseInstallUrl() {
