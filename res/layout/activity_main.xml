@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="fill_horizontal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/installButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="startInstall"
+        android:text="@string/install" />
+
+    <Button
+        android:id="@+id/selectLibsButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/installButton"
+        android:layout_centerHorizontal="true"
+        android:enabled="false"
+        android:onClick="selectLibraries"
+        android:text="@string/select_libs" />
+
+</RelativeLayout>

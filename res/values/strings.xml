@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, ErlangMain!</string>
-    <string name="app_name">Erlang For Android</string>
+
+    <string name="app_name">Erlang4Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Erlang4Android</string>
+    <string name="install">Install</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="select_libs">Select libraries</string>
+    <string name="title_activity_lib_select">Select libraries</string>
+    <string name="refresh_libs">Refresh</string>
+    <string name="details">Details</string>
+    <string name="already_installed">Already installed.</string>
+    <string name="not_yet_installed">Not yet installed.</string>
+    <string name="go">Go</string>
+    <string name="already_installing">Already installing</string>
+    <string name="already_uninstalling">Already uninstalling</string>
+    <string name="edit_repositories">Edit repositories</string>
+    <string name="add_repo">Add repository</string>
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+    <string name="enter_repo_details">Enter repository name and location</string>
+    <string name="edit_repo">Edit repository</string>
+    <string name="delete_repo">Delete repository</string>
+
 </resources>

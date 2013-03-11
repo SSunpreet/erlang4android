@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/refreshMenuItem" android:title="@string/refresh_libs"></item>
+    <item android:id="@+id/goMenuItem" android:title="@string/go"></item>
+</menu>

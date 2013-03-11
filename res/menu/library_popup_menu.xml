@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/install_library_item" android:title="@string/install"></item>
+    <item android:id="@+id/uninstall_library_item" android:title="@string/uninstall"></item>
+    <item android:id="@+id/details_library_item" android:title="@string/details"></item>
+    
+
+</menu>
