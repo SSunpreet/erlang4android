@@ -1,0 +1,2 @@
+Scripting Layer for Android (SL4A) allows different scripting languages to be installed and used on Android devices. This application downloads and installs Erlang/OTP.
+Since Google Code no longer allows uploading new binary packages, a version for Erlang/OTP 17.0 is available at http://erlang.ernovation.com/files/Erlang4Android17.0.apk
